@@ -11,3 +11,5 @@ It converts the saved picuture and shows up.
 6. The bot starts automatically in 5 seconds in the background dont move your mouse. Make sure your tabbed in skribbl before the bot starts to draw!
 7. After the bot finished his work, he terminates itselfs. :)
 8. Have fun!
+
+![Image](https://github.com/DevDenisYT/skribblmywaifu/blob/main/Screenshot%202020-10-01%20020412.png)
